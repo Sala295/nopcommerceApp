@@ -1,0 +1,17 @@
+1698654767924	geckodriver	INFO	Listening on 127.0.0.1:46199
+1698654767929	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAfhQqw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698654768436	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698654768551	Marionette	INFO	Listening on port 41131
+WebDriver BiDi listening on ws://127.0.0.1:57151
+Read port: 41131
+1698654768692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57151/devtools/browser/37edfe81-4d9c-420d-864b-667ee0a87264
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1698654782475	Marionette	INFO	Stopped listening on port 41131
